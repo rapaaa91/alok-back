@@ -1,1 +1,303 @@
-
+{
+  "users": {
+    "6283823097750@s.whatsapp.net": {},
+    "666@s.whatsapp.net": {}
+  },
+  "groups": {
+    "120363346695558884@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363294959452499@g.us": {
+      "antilink": true,
+      "antilink2": false
+    },
+    "120363329348410261@g.us": {
+      "antilink": true
+    },
+    "120363392729617601@g.us": {
+      "antilink": true
+    },
+    "120363235734572216@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363282926258875@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363178891973370@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363041514443149@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363201037385966@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363186718984270@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363197084242836@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363332982726150@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363203483340243@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363306861662756@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363307524763421@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363304732164894@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363168762429568@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363047599573557@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363328038369986@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363276523265223@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363280879265754@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363136024882508@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363198014449393@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363281967660377@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363235320780899@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363263233984809@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363321195036357@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363176644962637@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363048476766634@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363315444948215@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363167300031583@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363277536433260@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363323690888918@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363280204351830@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363163463596253@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363292988024658@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363235054068942@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363145776407671@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363389961642116@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363025522628327@g.us": {
+      "antilink": false
+    },
+    "120363323685008966@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363379401776145@g.us": {
+      "antilink": true
+    },
+    "120363326488916456@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363235130079780@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363385998425332@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363295615610836@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363040586476091@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363199834649652@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363302988261159@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363343760328602@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363040610525967@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363300131427418@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363304297599422@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363332383421754@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363217317151495@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363143147071838@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363296649054793@g.us": {
+      "antilink": false
+    },
+    "120363177169628677@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363316687429466@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363313685712296@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363215884965267@g.us": {
+      "antilink": false
+    },
+    "120363286169728533@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363264253881853@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363301145167231@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363301713830876@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363196709008764@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363047459719049@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363291121197415@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363344360392463@g.us": {
+      "antilink": false
+    },
+    "120363319656673057@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363348367456093@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363279847872928@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363135527863397@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363254687994505@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363319732277292@g.us": {
+      "antilink": false,
+      "antilink2": false
+    }
+  },
+  "database": {},
+  "settings": {}
+}
