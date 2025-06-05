@@ -1,0 +1,40 @@
+{
+  "name": "Alok Crash",
+  "version": "1.2",
+  "description": "WhatsApp Bot Bug 2025",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Rapzz",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.0",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^0.24.0",
+    "baileys": "github:nstar-y/Bail",
+    "btch-downloader": "^2.8.4",
+    "caliph-api": "^1.0.1",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "fake-useragent": "^1.0.1",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "jimp": "^0.16.3",
+    "moment-timezone": "^0.5.34",
+    "mongoose": "^6.2.1",
+    "multistream": "^2.1.0",
+    "node-fetch": "^2.6.7",
+    "node-webpmux": "^3.1.0",
+    "nodemon": "^3.1.7",
+    "os": "^0.1.1",
+    "pino": "^9.4.0",
+    "readline": "^1.3.0",
+    "util": "^0.12.5",
+    "yargs": "^17.7.2",
+    "yt-search": "^2.12.1"
+  }
+}
